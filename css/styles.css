@@ -1,6 +1,6 @@
 * { margin: 0; padding: 0; }
 html { height: 101%; }
-body { font-family: Open Sans; background: #f2f2f2 url('images/escheresque_ste_@2X.png'); font-size: 62.5%; padding-bottom: 65px; }
+body { font-family: Open Sans; background: #fafafa; font-size: 62.5%; padding-bottom: 65px; }
 
 h1 { font-family: "Open Sans", "Trebuchet MS", Arial, sans-serif; color: rgb(94, 94, 94); font-size: 3.6em; margin-bottom: 6px; }
 h2 { font-family: "Open Sans", "Trebuchet MS", Arial, sans-serif; color: rgb(94, 94, 94); font-size: 2.5em; margin-bottom: 10px;}
@@ -10,7 +10,7 @@ h4 { font-family: "Open Sans", Verdana, Arial, sans-serif; color: rgb(94, 94, 94
 p { font-family: "Open Sans", "Droid Serif", serif; color: rgb(150, 150, 150); font-size: 1.8em; line-height: 1.4em; margin-bottom: 15px; padding-left: 35px; }
 small { font-family: "Open Sans", "Droid Serif", serif; color: rgb(145, 145, 145); font-size: 1.6em; display: block; margin-bottom: 6px; }
 ul { display: block; list-style: none; }
-ul li { padding-left: 45px; list-style-type: none; vertical-align: top; background: url('images/bullet.png') 25px 5px no-repeat; margin-bottom: 5px; font-family: "Open Sans", "Droid Serif", serif; color: rgb(150, 150, 150); font-size: 1.6em; line-height: 2.3em; }
+ul li { padding-left: 45px; list-style-type: none; vertical-align: top; margin-bottom: 5px; font-family: "Open Sans", "Droid Serif", serif; color: rgb(150, 150, 150); font-size: 1.6em; line-height: 2.3em; }
 
 img { border: 0; max-width: 100%; }
 
